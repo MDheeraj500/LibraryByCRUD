@@ -1,14 +1,15 @@
-# Library-Management-System
+# Library-CRUD
 
-* Simple Library Management System using Node, Express and MongoDB
-* MongoDB Collection name - 'Books'
-* Front-end usind AdminLTE template
+* A Library Management System using JS-Node,express.
+* DataBase used: MongoDB.
+* MongoDB Collection name - 'Books'.
+* Front-end done using AdminLTE template.
 
-## How to run?
+## Command to run first:-
 ```
 $ node server.js
 ```
-* In Browser: http://127.0.0.1:3000
+* open localhost:3000 on your browser.
 
 "# LibraryByCRUD" 
 "# LibraryByCRUD" 
